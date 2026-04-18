@@ -17,5 +17,3 @@ This project analyzes the impact of digital addiction on students' academic perf
 ## Key Insights
 - Higher screen time showed a negative impact on productivity
 - Patterns identified between digital usage and lifestyle habits
-
-## Dashboard Preview
